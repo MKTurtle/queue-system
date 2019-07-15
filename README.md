@@ -4,9 +4,9 @@ repository name to be changed
 
 library from PHP QR Code & spreadsheet-reader
 
-// to add menu & QR scanner, optimize UI, and code efficiency
-// change file names, folders, and improve HTML
-// sort and clean after all is done
+# to add menu & QR scanner, optimize UI, and code efficiency
+# change file names, folders, and improve HTML
+# sort and clean after all is done
 
 Overview, 
 Can import excel to database
